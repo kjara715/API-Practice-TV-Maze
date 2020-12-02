@@ -1,7 +1,5 @@
 # API-Practice-TV-Maze
 
-The app can be found at 
+The user is able to create cards of different tv shows by entering and submitting a key term.
 
-In its current form the app is not yet complete.
-
-Currently, a search term is able to be typed in the textbox. Upon submission, a series of cards are generating providing information about tv shows which contain the search term
+Episodes from the TV show can be listed out by clicking the Episodes button of the desired TV show card.
