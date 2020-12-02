@@ -1,6 +1,6 @@
 # API-Practice-TV-Maze
 
-The app can be found at https://kjara715.github.io/API-Practice-TV-Maze/
+The app can be found at 
 
 In its current form the app is not yet complete.
 
